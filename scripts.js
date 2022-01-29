@@ -78,6 +78,13 @@ var products = [
         description : "Spring Valley Calcium Plus Vitamin D3 20 mcg Dietary Supplement, 600 mg, 250 count",
         price: "4.00",
         category: "DietarySuplement"
+    },
+    {
+        img : "https://i5.walmartimages.com/asr/8c5c79b1-0394-4992-b82f-898e38fd83d4.1f59e70f0b06cb19bc35d25c7dbd03de.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        title : "Potassium",
+        description : "Spring Valley Potassium Caplets, 99 mg, 250 Ct",
+        price: "3.00",
+        category: "DietarySuplement"
     }
 ]
 
