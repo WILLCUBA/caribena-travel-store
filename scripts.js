@@ -87,7 +87,7 @@ var products = [
         category: "DietarySuplement"
     },
     {
-        img : "https://i5.walmartimages.com/asr/8c5c79b1-0394-4992-b82f-898e38fd83d4.1f59e70f0b06cb19bc35d25c7dbd03de.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        img : "https://i5.walmartimages.com/asr/443d8a8e-dcf6-48f3-88ff-7f9f348ffd95.40f4fb7bc1c3c2d36fb16b330575fba6.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
         title : "Benadryl Allergy",
         description : "Children's Benadryl Antihistamine Allergy Liquid, Cherry, 8 fl. oz",
         price: "6.00",
