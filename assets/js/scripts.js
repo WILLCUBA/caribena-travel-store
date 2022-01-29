@@ -1,4 +1,4 @@
-var productsContainerEl = $("#products-container")
+const productsContainerEl = $("#products-container")
 
 
 var products = [
