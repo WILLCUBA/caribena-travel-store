@@ -64,6 +64,12 @@ var products = [
         description: "Vitamin C 1000mg 250 count",
         price: "6.20",
         category:"Vitamin"
+    },
+    {
+        img : "https://i5.walmartimages.com/asr/a3544eaa-3439-4fe9-960b-24674223d59c_1.f481f38b79dcda3b4bb36229909985d6.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        title : "MegaRed",
+        description : "Mega Red Advanced 4in1 500mg, Concentrated Omega-3 Fish & Krill Oil Supplement 25 ct",
+        category: "DietarySuplement"
     }
 ]
 
