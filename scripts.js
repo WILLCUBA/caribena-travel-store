@@ -92,6 +92,13 @@ var products = [
         description : "Children's Benadryl Antihistamine Allergy Liquid, Cherry, 8 fl. oz",
         price: "6.00",
         category: "Childrens"
+    },
+    {
+        img : "https://i5.walmartimages.com/asr/6af10b3c-1306-4f00-a5dd-1f051d3a5341_1.271d13466ac9c99770d322cda57fdc7b.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        title : "Ibuprofen Childrens",
+        description : "Equate Children's Ibuprofen Oral Suspension, 100 mg per 5 mL, Berry, 8 fl. Oz.",
+        price: "4.00",
+        category: "Childrens"
     }
 ]
 
