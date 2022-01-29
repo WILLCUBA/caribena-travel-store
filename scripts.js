@@ -71,6 +71,13 @@ var products = [
         description : "Mega Red Advanced 4in1 500mg, Concentrated Omega-3 Fish & Krill Oil Supplement 25 ct",
         price:"8.00",
         category: "DietarySuplement"
+    },
+    {
+        img : "https://i5.walmartimages.com/asr/189df33b-2668-4280-8d39-4d6e136f1b23.1c05712a0139b5b7e4e9591fbed37ccf.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        title : "Calcium",
+        description : "Spring Valley Calcium Plus Vitamin D3 20 mcg Dietary Supplement, 600 mg, 250 count",
+        price: "4.00",
+        category: "DietarySuplement"
     }
 ]
 
